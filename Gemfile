@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'haml'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'simple_form'
 gem 'devise', '~> 3.5.2'
 gem 'sdoc', '~> 0.4.0', group: :doc
